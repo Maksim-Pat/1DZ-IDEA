@@ -1,4 +1,5 @@
-Название приложения # Credit Card Number Validator
+# Название приложения 
+Credit Card Number Validator
 
 # Краткое описание
 01.04.2021 - 01.04.2021 было проведено Smoke test приложения Credit Card Number Validator.
@@ -12,7 +13,7 @@
 * https://skr.sh/s7MNHSSRyO9
 
 
-В качестве тестовых данных использовались данные https://www.freeformatter.com/credit-card-number-generator-validator.html
+В качестве тестовых данных использовались данные c https://www.freeformatter.com/credit-card-number-generator-validator.html
 
 Тестирование производилось в следующем окружении:
 * windows 7
