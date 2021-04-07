@@ -15,7 +15,39 @@ Credit Card Number Validator
 
 
 В качестве тестовых данных использовались данные:
-* [FREEFORMATTER.COM](https://www.freeformatter.com/credit-card-number-generator-validator.html)
+* [getcreditcardnumbers.com](https://www.getcreditcardnumbers.com/generated-credit-card-numbers)
+
+Карты VISA:
+* 4532945868739751 
+Ожидаемый результат: Result is OK
+* 4916374281134258 
+Ожидаемый результат: Result is OK
+* 4539447184051741 
+Ожидаемый результат: Result is OK
+
+Карты Mastercard 
+* 5578872860657223 
+Ожидаемый результат: Result is OK
+* 5451124603457863 
+Ожидаемый результат: Result is OK
+* 5438352259274641 
+Ожидаемый результат: Result is OK
+
+Карты Discover
+* 6011238691929665 
+Ожидаемый результат: Result is OK
+* 6011870581208964 
+Ожидаемый результат: Result is OK
+* 6011907931832653 
+Ожидаемый результат: Result is OK
+
+Карты American Express
+* 348933494361879 
+Ожидаемый результат: Result is OK
+* 374829719102477 
+Ожидаемый результат: Result is OK
+* 341647711337184 
+Ожидаемый результат: Result is OK
 
 Тестирование производилось в следующем окружении:
 * windows 7
